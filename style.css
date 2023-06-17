@@ -33,7 +33,14 @@ textarea{
     margin: 5px;
     border: 2px solid #ccc;
     border-radius: 5px;
-
+}
+input[type="file"]{
+   padding:10px;
+   margin:5px;
+   border: 2px solid #ccc;
+   border-radius: 5px;
+   width: 100%;
+   background-color: #fff;
 }
 fieldset{
     border: 2px solid #ccc;
